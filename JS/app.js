@@ -88,7 +88,7 @@ function leerDatosPoke(pokemon){
 
 
     carritoHTML(articulosCarrito)
-    console.log(articulosCarrito);
+    //console.log(articulosCarrito);
 }
 
 
