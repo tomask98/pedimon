@@ -1,12 +1,12 @@
 import { carritoHTML } from "./carrito.js";
 import { pokemone } from "./DB.JS"; 
-// import { limpiarcarrito } from "./LimpiarHTML.js";
+
 
 import { MostrarPokes } from "./MostrarPokes.js";
 
 
 import * as V from "./variables.js";
-// import { eliminarElemento } from "./EliminarElemento.js";
+
 
 
 
