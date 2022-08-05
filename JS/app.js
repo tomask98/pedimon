@@ -1,4 +1,4 @@
-import { carritoHTML } from "./Carrito.js";
+import { carritoHTML } from "./carrito.js";
 import { pokemone } from "./DB.JS"; 
 // import { limpiarcarrito } from "./LimpiarHTML.js";
 
